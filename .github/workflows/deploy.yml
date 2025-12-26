@@ -45,7 +45,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # Optional:
-          # publish_branch: gh-pages
-          # user_name: "Seu Nome"
-          # user_email: "seu@email.com"
