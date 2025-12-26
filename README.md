@@ -1,16 +1,38 @@
-# React + Vite
+# 📋 Kanban Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação **Kanban simples** feita com **React** e **Tailwind CSS** — ideal para organizar tarefas com colunas de *To Do*, *In Progress* e *Done*.
+Essa é a **versão básica** e funcional que será melhorada com novas funções e persistência de dados. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## React Compiler
+ - **Funciona sem bibliotecas extras**, apenas com React  
+ - Adicionar tarefas  
+ - Remover tarefas  
+ - Arrastar e soltar tarefas entre colunas  
+ - Contadores de tarefas por coluna
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🤝 Como Usar
 
-## Expanding the ESLint configuration
+- Digite o nome da task no campo de texto.
+- Selecione a coluna onde quer adicionar.
+- Clique em Add ou pressione Enter.
+- Arraste as tarefas entre as colunas.
+- Clique em 'X' para remover uma tarefa.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tecnologias
+
+-  **React**
+-  **Tailwind CSS**
+-  **Vite** (configuração padrão)
+-  JSX moderno
+
+---
+
+## 🧾 Próximos Recursos (Backlog)
+
+- Persistência com LocalStorage 
+- Modo Dark / Light 
+- Drag & Drop mais suave
+- Versão mobile responsiva
