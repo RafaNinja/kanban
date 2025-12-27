@@ -38,6 +38,12 @@ Essa é a **versão básica** e funcional que será melhorada com novas funçõe
 
 ## 💻 Versão final
 
-Link de acesso a versão final: 
-
 Vídeo: 
+
+
+
+
+https://github.com/user-attachments/assets/988dd947-0aa1-4e30-8f9a-7e5fda512846
+
+
+
