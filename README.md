@@ -4,9 +4,10 @@ Uma aplicação **Kanban simples** feita com **React** e **Tailwind CSS** — id
 Essa é a **versão básica** e funcional que será melhorada com novas funções e persistência de dados. 
 
 
+
 ## 🚀 Funcionalidades
 
- - **Funciona sem bibliotecas extras**, apenas com React  
+ - **Funciona sem bibliotecas extras**, apenas com React
  - Adicionar tarefas  
  - Remover tarefas  
  - Arrastar e soltar tarefas entre colunas  
@@ -23,16 +24,20 @@ Essa é a **versão básica** e funcional que será melhorada com novas funçõe
 
 ## 🛠️ Tecnologias
 
--  **React**
--  **Tailwind CSS**
--  **Vite** (configuração padrão)
--  JSX moderno
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,tailwind,jsx)](https://skillicons.dev)
 
 ---
 
 ## 🧾 Próximos Recursos (Backlog)
 
-- Persistência com LocalStorage 
+- Mudar o link para acessar pelo URL, ao invés do localhost
+- Persistência com LocalStorage
 - Modo Dark / Light 
 - Drag & Drop mais suave
 - Versão mobile responsiva
+
+## 💻 Versão final
+
+Link de acesso a versão final: 
+
+Vídeo: 
